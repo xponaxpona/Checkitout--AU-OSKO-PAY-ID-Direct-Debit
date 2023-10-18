@@ -1,3 +1,7 @@
 {
-  "recommendations": ["stripe.vscode-stripe"]
+  "recommendations": [
+    "stripe.vscode-stripe",
+    "redhat.java",
+    "tabnine.tabnine-vscode"
+  ]
 }
